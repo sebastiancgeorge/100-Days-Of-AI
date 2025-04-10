@@ -30,3 +30,11 @@ Transcribe a `.wav` audio file into readable text using Whisper locally.
 ```bash
 pip install git+https://github.com/openai/whisper.git
 pip install torch
+```
+```bash
+macOS: brew install ffmpeg
+
+Ubuntu: sudo apt install ffmpeg
+
+Windows: ffmpeg.org
+```
