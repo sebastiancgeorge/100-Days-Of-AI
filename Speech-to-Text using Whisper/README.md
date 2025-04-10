@@ -1,17 +1,17 @@
-# 🎙️ Day 4 – Speech Recognition with Whisper (Offline Speech-to-Text)
+#  Day 4 – Speech Recognition with Whisper (Offline Speech-to-Text)
 
 Welcome to **Day 4** of my **#100DaysOfAI** challenge!  
 Today I explored **Whisper**, a powerful speech recognition model developed by OpenAI that works **offline**, and converts spoken audio into text.
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 Transcribe a `.wav` audio file into readable text using Whisper locally.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Tool       | Purpose                                |
 |------------|----------------------------------------|
@@ -23,7 +23,7 @@ Transcribe a `.wav` audio file into readable text using Whisper locally.
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Install Dependencies
 
