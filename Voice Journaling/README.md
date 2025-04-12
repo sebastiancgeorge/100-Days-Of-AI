@@ -1,17 +1,17 @@
-# 🗒️ Day 5 – AI-Powered Voice Diary (Whisper + Tkinter)
+#  Day 5 – AI-Powered Voice Diary (Whisper + Tkinter)
 
 Welcome to **Day 5** of my **#100DaysOfAI** challenge!  
 Today, I built a simple **Voice Diary App** that lets you record voice notes, transcribe them offline using **Whisper**, and save them as text files — all in a clean desktop GUI.
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 Turn your daily voice thoughts into text using Whisper’s offline speech recognition, and save them as diary entries.
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Tool             | Purpose                                |
 |------------------|----------------------------------------|
@@ -24,7 +24,7 @@ Turn your daily voice thoughts into text using Whisper’s offline speech recogn
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Install Python Packages
 
